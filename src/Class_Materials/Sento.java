@@ -63,7 +63,7 @@ public class Sento {
 		System.out.println("Hi Khan value of a is= " +m.getData());
 		//m.sun();
 		m.sun(10);
-		//m.sun(30);
+		m.sun(30);
 		//m.sum1(400, 60);
 		
 
